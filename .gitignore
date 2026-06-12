@@ -1,0 +1,8 @@
+WebUI_venv/
+AI_LAB/
+__pycache__/
+*.pyc
+unsloth_compiled_cache/
+finetune_model/
+chroma_sop/
+__history
